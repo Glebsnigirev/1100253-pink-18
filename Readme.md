@@ -1,7 +1,7 @@
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Глеб Снигирев](https://up.htmlacademy.ru/adaptive/18/user/1100253).
-* Наставник: Руслан Бреев.
+* Наставник: Руслан Бреев.https://htmlacademy.ru/profile/blckwltz
 
 ---
 
